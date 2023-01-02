@@ -6,7 +6,7 @@
   </h3>
 </div>
 ---
-[![Linkedin: Mauro Harretche](https://img.shields.io/badge/-ezeqduarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-harretche/)](https://www.linkedin.com/in/mauro-harretche/)
+[![Linkedin: Mauro Harretche](https://img.shields.io/badge/-mauroharretche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-harretche/)](https://www.linkedin.com/in/mauro-harretche/)
 [![GitHub Maurito Harretche](https://img.shields.io/github/followers/mauritoharretche?label=follow&style=social)](https://github.com/mauritoharretche)
 ---
 
