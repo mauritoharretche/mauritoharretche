@@ -5,10 +5,10 @@
   <h3 align="center">Desarrollador FullStack, proyectos en equipo culminados recientemente cautivaron mi interes en seguir aprendiendo en el mundo de IT ✨. Tengo la capacidad de realizar proyectos web para que puedan ser escalables y asi poder llevarlos adelante en equipo.
   </h3>
 </div>
----
+
 [![Linkedin: Mauro Harretche](https://img.shields.io/badge/-mauroharretche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-harretche/)](https://www.linkedin.com/in/mauro-harretche/)
 [![GitHub Maurito Harretche](https://img.shields.io/github/followers/mauritoharretche?label=follow&style=social)](https://github.com/mauritoharretche)
----
+
 
 <div align="left">
   <h3> 🔨 Lenguajes y herramientas que voy aprendiendo:</h3>
