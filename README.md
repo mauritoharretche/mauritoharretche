@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif" width="300" />
   <h1 align="center"> Hola 👋, soy Maurito</h1>
-  <h3 align="center">Desarrollador FullStack, proyectos en equipo culminados recientemente cautivaron mi interes en seguir aprendiendo en el mundo de IT ✨. Tengo la capacidad de realizar proyectos web para que puedan ser escalables y asi poder llevarlos adelante en equipo.
+  <h3 align="center">Desarrollador FullStack, proyectos en equipo culminados recientemente cautivaron mi interés en seguir aprendiendo en el mundo de IT ✨. Tengo la capacidad de realizar proyectos web y así poder llevarlos adelante en equipo.
   </h3>
 </div>
 
