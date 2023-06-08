@@ -19,7 +19,7 @@ I am a proactive, committed person with good communication skills. I have experi
 
 ---
 <div align="left">
-  <h3> 🔨 Lenguajes y herramientas que voy aprendiendo:</h3>
+  <h3> 🔨 Languages and tools that I am learning:</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="html" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="css"  width="50" height="50"/>&nbsp;
