@@ -4,8 +4,8 @@
   <h1 align="center"> Hi 👋, I'm Maurito</h1>
   <h3 align="center">I am a junior Front End Developer developing web applications. Also, I work on my own projects. I have experience in various technologies such as ReactJs, Javascript, NodeJS, CSS, Bootstrap, among others.
 
-Currently studying Swift.
-I like the Mobile world.
+Currently studying Python.
+
 
 I am a proactive, committed person with good communication skills. I have experience in teamwork and have achieved good results. I have soft skills and I easily adapt to different situations. I'm an organized person.
   </h3>
