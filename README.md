@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif" width="300" />
   <h1 align="center"> Hi 👋, I'm Maurito</h1>
-  <h3 align="center">I am a junior Front End Developer developing web applications. Also, I work on my own projects. I have experience in various technologies such as ReactJs, Javascript, NodeJS, CSS, Bootstrap, among others.
+  <h3 align="center">I am a junior FullStack Developer developing web applications. Also, I work on my own projects. I have experience in various technologies such as ReactJs, Javascript, NodeJS, CSS, Bootstrap, among others.
 
 Currently studying Python.
 
