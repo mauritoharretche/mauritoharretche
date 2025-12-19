@@ -2,12 +2,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif" width="300" />
   <h1 align="center"> Hi 👋, I'm Maurito</h1>
-  <h3 align="center">I am a junior frontEnd Developer developing web applications. Also, I work on my own projects. I have experience in various technologies such as ReactJs, Javascript, Laravel , PHP, NodeJS, CSS, Bootstrap, among others.
+  <h3 align="center">I am a junior backend Developer developing web applications. Also, I work on my own projects. I have experience in various technologies such as PHP, Laravel, SQL, ReactJS, JavaScript, Node.js, CSS, Bootstrap, among others.
 
-Currently studying Python.
+Currently, studying Python, with Django
 
+I'm a happy person, a team player, a coffee junkie and someone to talk to about anything.
 
-I am a proactive, committed person with good communication skills. I have experience in teamwork and have achieved good results. I have soft skills and I easily adapt to different situations. I'm an organized person.
+I am excited to continue growing professionally, learning new technologies, and facing new challenges in development. I am always open to exciting opportunities and collaborations where I can contribute my expertise and passion for technology.
   </h3>
 </div>
 
